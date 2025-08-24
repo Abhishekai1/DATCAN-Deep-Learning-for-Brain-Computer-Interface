@@ -95,7 +95,3 @@ This project showcases my ability to:
   journal={arXiv preprint}
 }
 ````
-
----
-
-````
