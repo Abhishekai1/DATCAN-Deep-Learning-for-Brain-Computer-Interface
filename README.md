@@ -88,10 +88,9 @@ This project showcases my ability to:
 
 ## 📖 Citation
 ```bibtex
-@article{YourName2025DATCAN,
+@article{Abhishekai12025DATCAN,
   title={DATCAN: Domain-Adversarial TRCA-Contrastive Network for Subject-Independent SSVEP BCI},
-  author={Your Name},
+  author={Abhishek Yadav},
   year={2025},
-  journal={arXiv preprint}
 }
 ````
